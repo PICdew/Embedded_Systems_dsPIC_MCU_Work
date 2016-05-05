@@ -1,0 +1,5 @@
+Partners:
+	Name			NetID:
+	- Eric Meyers 		(emeyer7)
+	- Ahmed Abulila 	(abulila2)
+	- Long Le 		(longle1)
